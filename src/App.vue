@@ -1,5 +1,5 @@
 <script setup>
-import { ref, computed, defineExpose } from 'vue';
+import { ref, computed } from 'vue';
 import RouteEditor from './components/RouteEditor.vue';
 import ViewMode from './components/RouteViewer.vue';
 
